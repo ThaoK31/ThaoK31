@@ -7,13 +7,13 @@
 
 <p align="center"><img src="assets/sport-extract.png" alt="Sport Extract on a phone: home, progress and a workout, on demo data" width="80%"></p>
 
-<p align="center">All your training in one place: Garmin history, fitness metrics, workouts sent to Garmin and an AI coach.<br>React, FastAPI and five Docker services in production, updated on every merge. Private repo.</p>
+<p align="center">All your training in one place: Garmin history, fitness metrics, workouts sent to Garmin and an AI coach.<br>React and FastAPI, in production, 1,100+ tests. Private repo.</p>
 
 <h3 align="center">Moss &amp; Mayhem</h3>
 
 <img src="assets/moss-and-mayhem.png" alt="Moss &amp; Mayhem: a boss fight in The Grove, The Bramble Heart, the Garden Tunnel and The Garden" width="100%">
 
-<p align="center">A co-op roguelite in the browser, built with <a href="https://github.com/theo-stoffelbach">@theo-stoffelbach</a>: 1 to 4 players, up to 8 with AI mercenaries in the Garden Tunnel. No game engine: TypeScript, Canvas 2D, WebAudio and WebSockets.</p>
+<p align="center">A co-op roguelite in the browser, built with <a href="https://github.com/theo-stoffelbach">@theo-stoffelbach</a>: 1 to 4 players, up to 8 with AI mercenaries in the Garden Tunnel.<br>No game engine and no asset files: pixel art written as code and drawn on Canvas 2D, sound and music synthesized with WebAudio. Online co-op runs on a Node.js server over WebSockets, with Discord and Google sign-in.</p>
 
 <p align="center">
   <picture>
