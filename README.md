@@ -18,7 +18,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-    <img src="assets/stack-light.svg" alt="My stack. Languages: TypeScript, JavaScript, Python, PHP, Perl. Frontend: React, Next.js, Vue, Tailwind CSS, shadcn/ui, Vite, Three.js, GSAP, Figma. Backend: Node.js, Express, FastAPI, Django, Prisma, Socket.io. Data: PostgreSQL, MySQL, SQLite, MongoDB, Redis, Supabase. Testing: Vitest, Jest, Playwright, Pytest. DevOps: Docker, GitHub Actions, GitLab CI, Nginx, Linux. AI: Claude Code, OpenAI (Codex, ChatGPT), Gemini, Ollama, MCP, ElevenLabs, Suno, Jev." width="516">
+    <img src="assets/stack-light.svg" alt="My stack. Languages: TypeScript, JavaScript, Python, PHP, Perl, Java, Kotlin, C#, C++. Frontend: React, Next.js, Vue, Tailwind CSS, shadcn/ui, Vite, Three.js, GSAP, Figma. Backend: Node.js, Express, FastAPI, Django, Prisma, Socket.io. Data: PostgreSQL, MySQL, SQLite, MongoDB, Redis, Supabase. Testing: Vitest, Jest, Playwright, Pytest. DevOps: Docker, GitHub Actions, GitLab CI, Nginx, Linux. AI: Claude Code, OpenAI (Codex, ChatGPT), Gemini, Ollama, MCP, ElevenLabs, Suno, Jev." width="516">
   </picture>
 </p>
 
